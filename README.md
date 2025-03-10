@@ -3,8 +3,8 @@
 Love for great Web Design, Development and Nature 🍃. Specialized in Javascript technologies. 
 
 ## Projects and Contributions
-🌳 **[Hectarea - Prix des terres](https://www.prix-des-terres.fr/):** Mapping tool for agricultural land prices.  <br>
-📖 **[Zoon - Translation ](https://www.zoon.fr/):** Translation tool for graphic designers, authors and translators.  <br>
+🌳 **[Hectarea - Prix des terres](https://prix-des-terres.hectarea.io):** Mapping tool for agricultural land prices.  <br>
+📖 **[Zoon - Translation ](https://zoon-editor.com/en/accueil/):** Translation tool for graphic designers, authors and translators.  <br>
 ☀️ **[SolarPanel - OmbriDesign](https://www.solakvan.com/):** Mapping tool for solar panel installation.  <br>
 
 ## Skills
