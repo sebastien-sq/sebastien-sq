@@ -1,12 +1,11 @@
 # Hi there, I'm Sebastien 👋
 
-## About Me
-Love for Web Design, Development and great ideas. Specialized in Javascript technologies. 
+Love for great Web Design, Development and Nature 🍃. Specialized in Javascript technologies. 
 
 ## Projects and Contributions
-- **[Hectarea - Prix des terres](https://www.prix-des-terres.fr/):** Mapping tool for agricultural land prices.
-- **[Zoon - Translation ](https://www.zoon.fr/):** Translation tool for graphic designers, authors and translators.
-- **[SolarPanel - OmbriDesign](https://www.solakvan.com/):** Mapping tool for solar panel installation.
+- **[Hectarea - Prix des terres](https://www.prix-des-terres.fr/):** Mapping tool for agricultural land prices. 🌳
+- **[Zoon - Translation ](https://www.zoon.fr/):** Translation tool for graphic designers, authors and translators. 📖
+- **[SolarPanel - OmbriDesign](https://www.solakvan.com/):** Mapping tool for solar panel installation. ☀️
 
 ## Skills
 - **Languages:** Typescript, Javascript, Python, SQL.
